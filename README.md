@@ -4,6 +4,7 @@ Welcome to my portfolio!  This project is intended to provide information about 
 
 https://hintzetyson.github.io/My-Portfolio/
 
+
 ## Requirements
 
 This project was designed to be used on any web browser.
