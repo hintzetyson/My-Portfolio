@@ -1,8 +1,8 @@
-# portfolio
+# Portfolio
 
 Welcome to my portfolio!  This project is intended to provide information about me and showcase my projects.
 
-<https://jollyrgr83.github.io/portfolio/>
+https://hintzetyson.github.io/My-Portfolio/
 
 ## Requirements
 
