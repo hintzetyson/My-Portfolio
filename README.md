@@ -24,7 +24,7 @@ This project consists of 4 pages:
 "Home" (index.html)
 This is the home page and contains most information.
 
-"About Me" (about-us.html)
+"About Me" (about-me.html)
 This page contains my picture and a short description of my background.
 
 "Portfolio (portfolio.html)
